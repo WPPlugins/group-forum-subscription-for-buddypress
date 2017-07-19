@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Group Forum Subscription\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-18 11:11-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boone Gorges <boonebgorges@gmail.com>\n"
+"Language-Team: Boone Gorges <boonebgorges@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:73
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Title: %s\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Es wurde eine neue Nachricht in der Gruppe \"%s\" geschrieben.\n"
+"Autor: %s\n"
+"\n"
+"%s\n"
+"\n"
+"Um die Diskussion aufzurufen, schaue hier: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:90
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%6$s\"\n"
+"Author: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+msgstr ""
+"Es wurde ein neues Thema in der Gruppe \"%6$s\" eröffnet.\n"
+"Autor: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:91
+msgid "New discussion board activity"
+msgstr "Neue Diskussion Forum Aktivität"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:118
+msgid "Are you sure you wanna delete this post?"
+msgstr "Möchtest du diesen Beitrag wirklich löschen?"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:119
+msgid "Are you sure you wanna undelete this post?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:120
+msgid "favorites"
+msgstr "Favoriten"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:121
+msgid "?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:122
+msgid "%favDel%"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:123
+msgid "%favAdd%"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:124
+msgid "Unsubscribe from this discussion"
+msgstr "Von dieser Diskussion abmelden"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:125
+msgid "Subscribe to this discussion"
+msgstr "Diese Diskussion abonnieren"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:78
+msgid "Options saved."
+msgstr "Einstellungen gespeichert."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:88
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:131
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:133
+msgid "Group Forum Subscription Options"
+msgstr "Gruppen Forum Abonnement-Optionen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:89
+msgid "Default setting for new users"
+msgstr "Standard Einstellungen für neue Benutzer."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:93
+msgid "Members are automatically subscribed to forums when they join a group"
+msgstr "Benutzer abonnieren diese Gruppe bei einer Anmeldung automatisch"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:97
+msgid "Members receive email notification of their own posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:102
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:107
+msgid "Initial setup"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:110
+msgid "<strong>Warning:</strong> Clicking the Setup button will subscribe every member of your BuddyPress installation to every discussion in every group of which they are members. It will overwrite any bbPress favorites that the user has set manually. This step is irreversible, so <em>do not click unless you are certain that you want to subscribe everyone to their forums</em>!"
+msgstr "<strong>Achtung:</strong> Durch klicken auf folgende Schaltfläche abboniert jedes Mitglied deiner BuddyPress Installation jede Diskussion in welche er Mitglied ist! Es überschreibt jede Einstellung in den manuellen Benachrichtigungseinstellungen der Benutzer. Dieser Schritt lässt sich nicht rückgängig machen, also <em>klicke nicht wenn du dir nicht sicher bist, dass alle Mitglieder diese Foren abonnieren sollen</em>!"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:113
+msgid "Consider backing up your wp_usermeta table before clicking Submit."
+msgstr "Stelle sicher, dass du ein Backup deiner  wp_usermeta Tabelle angefertig hast, bevor du auf Senden klickst."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:117
+msgid "Submit"
+msgstr "Senden"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:131
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:133
+msgid "Group Forum Subscription"
+msgstr "Gruppen Forum Abonnement"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:202
+#, php-format
+msgid "New discussion activity in the group: \"%s\""
+msgstr "Es gibt eine neue Diskussion in der Gruppe: \"%s\""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:205
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"To view the group visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Es wurde eine neuen Nachricht in der Gruppe \"%s\" geschrieben.\n"
+"Autor: %s\n"
+"\n"
+"%s\n"
+"\n"
+"Um diese Diskussion zu besuchen, klicke: %s\n"
+"Um die Gruppe zu besuchen, klicke: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:217
+#, php-format
+msgid "To unsubscribe from this discussion, visit %s. To manage your email notification preferences, visit %s."
+msgstr "Um die automatische Benachrichtigung dieser Diskussion zu beenden, besuche %s. Um deine Benachrichtungseinstellungen zu bearbeiten, besuche %s."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:423
+msgid "Automatically subscribe to group discussions"
+msgstr "Automatisches anmelden bei Gruppendiskussionen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:424
+msgid "Yes"
+msgstr "Ja"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:425
+msgid "No"
+msgstr "Nein"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:497
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:509
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:500
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:513
+msgid "General"
+msgstr "Allgemein"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:501
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:514
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:504
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:517
+msgid "Delete Account"
+msgstr "Konto löschen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:554
+msgid "Forum subscription"
+msgstr "Forum-Abo"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:556
+msgid "You are currently subscribed to all discussions in this group."
+msgstr "Du hast alle Diskussionen dieser Gruppe abonniert."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:558
+msgid "You are not subscribed to all discussions in this group."
+msgstr "Du hast nicht alle Diskussionen dieser Gruppe abonniert."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:563
+msgid "To unsubscribe from specific discussions, click their titles."
+msgstr "Um die Benachrichtigung einer speziellen Diskussion zu beenden, klicke auf den Titel."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:565
+msgid "To subscribe to specific discussions, click their titles."
+msgstr "Um die Benachrichtigung einer speziellen Diskussion zu aktivieren, klicke auf den Titel."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:570
+msgid "Manage your group subscriptions at "
+msgstr "Verwalte deine Gruppen Abonnements unter"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:570
+msgid "Notification Settings"
+msgstr "Benachrichtigungseinstellungen"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:572
+msgid "Join this group to subscribe automatically to all of its discussions."
+msgstr "Abonniere diese Gruppe und erhalte automatisch zu allen Diskussionen eine Benachrichtigung."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:634
+msgid "You are subscribed to this topic."
+msgstr "Du hast dieses Thema abonniert."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:635
+msgid "Unsubscribe"
+msgstr "Abmelden"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:642
+msgid "You are not subscribed to this topic."
+msgstr "Du hast dieses Thema nicht abonniert."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:643
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#~ msgid "To read or unsubscribe from this discussion, visit"
+#~ msgstr "Zum lesen oder abbestellen dieser Diskussion, besuche"
+#~ msgid "To manage your subscription settings, visit "
+#~ msgstr "Um deine Abonnement-Optionen zu bearbeiten, besuche"
+#~ msgid ""
+#~ "Manage your group subscriptions at <a href=\"<?php echo "
+#~ "$notification_page; ?>\">Notification Settings</a>"
+#~ msgstr ""
+#~ "Modifier vos alertes à at <a href=\"<?php echo $notification_page; ?>"
+#~ "\">Réglages > Messages</a>"
+

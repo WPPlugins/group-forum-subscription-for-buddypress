@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Group Forum Subscription\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-12 17:13-3600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: dan <contact@netajour.com>\n"
+"Language-Team: Boone Gorges <boonebgorges@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+
+#: bb-group-forum-subscription.php:68
+#: bp-group-forum-subscription.php:180
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Un nouveau message a &eacute;t&eacute; publi&eacute; dans le groupe \"%s\".\n"
+"Auteur: %s\n"
+"\n"
+"%s\n"
+"\n"
+"Pour suivre toute la discussion, visitez: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: bb-group-forum-subscription.php:83
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%6$s\"\n"
+"Author: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+msgstr ""
+"Un nouveau message a &eacute;t&eacute; publi&eacute; dans le groupe \"%6$s\"\n"
+"Auteur: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+
+#: bb-group-forum-subscription.php:84
+msgid "New discussion board activity"
+msgstr "Activit&eacute; sur les forums"
+
+#: bb-group-forum-subscription.php:85
+msgid "To read or unsubscribe from this discussion, visit"
+msgstr "Pour lire ou annuler l&#180;abonnement &agrave; cette discussion, visitez "
+
+#: bb-group-forum-subscription.php:85
+msgid "To manage your subscription settings, visit "
+msgstr "Pour g&eacute;rer vos abonnements, visitez "
+
+#: bb-group-forum-subscription.php:111
+msgid "Are you sure you wanna delete this post?"
+msgstr "Voulez-vous vraiment supprimer ce message ?"
+
+#: bb-group-forum-subscription.php:112
+msgid "Are you sure you wanna undelete this post?"
+msgstr "Voulez-vous vraiment annuler la suppression du message ?"
+
+#: bb-group-forum-subscription.php:113
+msgid "favorites"
+msgstr "Favoris"
+
+#: bb-group-forum-subscription.php:114
+msgid "?"
+msgstr ""
+
+#: bb-group-forum-subscription.php:115
+msgid "%favDel%"
+msgstr ""
+
+#: bb-group-forum-subscription.php:116
+msgid "%favAdd%"
+msgstr ""
+
+#: bb-group-forum-subscription.php:117
+msgid "Unsubscribe from this discussion"
+msgstr "Annuler mon abonnement &agrave; cette discussion"
+
+#: bb-group-forum-subscription.php:118
+msgid "Subscribe to this discussion"
+msgstr "Je m&#180;abonne &agrave; cette discussion"
+
+#: bp-group-forum-subscription.php:67
+msgid "Options saved."
+msgstr "Options enregistr&eacute;es"
+
+#: bp-group-forum-subscription.php:76
+#: bp-group-forum-subscription.php:113
+msgid "Group Forum Subscription Options"
+msgstr "Options d&#180;abonnement aux forums de groupes"
+
+#: bp-group-forum-subscription.php:77
+msgid "Default setting for new users"
+msgstr "R&eacute;glages par d&eacute;faut pour les nouveaux membres"
+
+#: bp-group-forum-subscription.php:81
+msgid "Members are automatically subscribed to forums when they join a group"
+msgstr "Les membres sont automatiquement abonn&eacute;s au forum quand ils adh&egrave;rent au groupe"
+
+#: bp-group-forum-subscription.php:94
+msgid "<strong>Warning:</strong> Clicking the Setup button will subscribe every member of your BuddyPress installation to every discussion in every group of which they are members. It will overwrite any bbPress favorites that the user has set manually. This step is irreversible, so <em>do not click unless you are certain that you want to subscribe everyone to their forums</em>!"
+msgstr "<strong>Avertissement:</strong> En cliquant sur le bouton Installer, tous les membres de votre communaut&eacute; BuddyPress seront abonn&eacute;s &agrave; toutes les discussions en cours dans les groupes auxquels ils sont li&eacute;s. Ceci &eacute;crasera tous les param&egrave;tres ant&eacute;rieurs des favoris que vos membres auraient enregistr&eacute;s dans bbPress. Cette op&eacute;ration est irr&eacute;versible, aussi r&eacute;flechissez bien avant d&#180;agir."
+
+#: bp-group-forum-subscription.php:97
+msgid "Consider backing up your wp_usermeta table before clicking Submit."
+msgstr "Il serait prudent de sauvegarder la table wp_usermeta avant de cliquer sur Installer."
+
+#: bp-group-forum-subscription.php:101
+msgid "Submit"
+msgstr "Installer"
+
+#: bp-group-forum-subscription.php:113
+msgid "Group Forum Subscription"
+msgstr "Abonnements aux Forums"
+
+#: bp-group-forum-subscription.php:177
+#, php-format
+msgid "New discussion activity in the group: \"%s\""
+msgstr "Nouvelle discussion dans le groupe: \"%s\""
+
+#: bp-group-forum-subscription.php:192
+#, php-format
+msgid "To unsubscribe from this discussion, visit %s. To manage your email notification preferences, visit %s."
+msgstr "Pour annuler votre abonnement &agrave; cette discussion, visitez %s. Pour modifier vos r&eacute;glages de messagerie, visitez %s."
+
+#: bp-group-forum-subscription.php:398
+msgid "Automatically subscribe to group discussions"
+msgstr "S&#180;abonner automatiquement aux discussions"
+
+#: bp-group-forum-subscription.php:399
+msgid "Yes"
+msgstr "Oui"
+
+#: bp-group-forum-subscription.php:400
+msgid "No"
+msgstr "Non"
+
+#: bp-group-forum-subscription.php:472
+#: bp-group-forum-subscription.php:484
+msgid "Settings"
+msgstr "R&eacute;glages"
+
+#: bp-group-forum-subscription.php:475
+#: bp-group-forum-subscription.php:488
+msgid "General"
+msgstr "G&eacute;n&eacute;ral"
+
+#: bp-group-forum-subscription.php:476
+#: bp-group-forum-subscription.php:489
+msgid "Notifications"
+msgstr "Notifications"
+
+#: bp-group-forum-subscription.php:479
+#: bp-group-forum-subscription.php:492
+msgid "Delete Account"
+msgstr "Supprimer le compte"
+
+#: bp-group-forum-subscription.php:525
+msgid "Forum subscription"
+msgstr "Abonnements aux forums"
+
+#: bp-group-forum-subscription.php:527
+msgid "You are currently subscribed to all discussions in this group."
+msgstr "Vous &ecirc;tes abonn&eacute; aux discussions de ce groupe."
+
+#: bp-group-forum-subscription.php:529
+msgid "You are not subscribed to all discussions in this group."
+msgstr "Vous n&#180;&ecirc;tes pas abonn&eacute; aux discussions de ce groupe."
+
+#: bp-group-forum-subscription.php:534
+msgid "To unsubscribe from specific discussions, click their titles."
+msgstr "Pour annuler l&#180;abonnement &agrave; une discussion particuli&egrave;re, cliquez sur son titre."
+
+#: bp-group-forum-subscription.php:536
+msgid "To subscribe to specific discussions, click their titles."
+msgstr "Pour vous abonner &agrave; une discussion particuli&egrave;re cliquez sur son titre."
+
+#: bp-group-forum-subscription.php:541
+msgid "Manage your group subscriptions at "
+msgstr "G&eacute;rez vos abonnements &agrave; "
+
+#: bp-group-forum-subscription.php:541
+msgid "Notification Settings"
+msgstr "R&eacute;glages &gt; Messages"
+
+#: bp-group-forum-subscription.php:543
+msgid "Join this group to subscribe automatically to all of its discussions."
+msgstr "Adh&eacute;rez &agrave; ce groupe pour &ecirc;tre automatiquement abonn&eacute; &agrave; toutes les discussions."
+
+#: bp-group-forum-subscription.php:604
+msgid "You are subscribed to this topic."
+msgstr "Vous &ecirc;tes abonn&eacute; &agrave; cette discussion."
+
+#: bp-group-forum-subscription.php:610
+msgid "Unsubscribe"
+msgstr "Me d&eacute;sabonner"
+
+#: bp-group-forum-subscription.php:618
+msgid "You are not subscribed to this topic."
+msgstr "Vous n&#180;&ecirc;tes pas abonn&eacute; &agrave; cette discussion. "
+
+#: bp-group-forum-subscription.php:624
+msgid "Subscribe"
+msgstr "M&#180;abonner"
+

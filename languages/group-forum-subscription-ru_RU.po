@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: group-forum-subscription\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-13 17:13+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boone Gorges <boonebgorges@gmail.com>\n"
+"Language-Team: slaFFik <slaffik@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: Ukraine\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: F:/Webservers/home/plugins/group-forum-subscription-for-buddypress\n"
+": \n"
+"X-Poedit-SearchPath-0: F:/Webservers/home/plugins/group-forum-subscription-for-buddypress"
+
+#: bb-group-forum-subscription.php:70
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Написано новое сообщение в группу \"%s\".\n"
+"Автор: %s\n"
+"\n"
+"%s\n"
+"\n"
+"Для просмотра всего обсуждения посетите: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: bb-group-forum-subscription.php:86
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%6$s\"\n"
+"Author: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+msgstr ""
+"Опубликовано новое сообщение в группе \"%6$s\"\n"
+"Автор: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+
+#: bb-group-forum-subscription.php:87
+msgid "New discussion board activity"
+msgstr "Активность на форуме"
+
+#: bb-group-forum-subscription.php:114
+msgid "Are you sure you wanna delete this post?"
+msgstr "Вы уверены, что хотите удалить эту запись?"
+
+#: bb-group-forum-subscription.php:115
+msgid "Are you sure you wanna undelete this post?"
+msgstr "Вы уверены, что хотите отменить удаление этой записи?"
+
+#: bb-group-forum-subscription.php:116
+msgid "favorites"
+msgstr "избранное"
+
+#: bb-group-forum-subscription.php:117
+msgid "?"
+msgstr "?"
+
+#: bb-group-forum-subscription.php:118
+#, php-format
+msgid "%favDel%"
+msgstr "%favDel%"
+
+#: bb-group-forum-subscription.php:119
+#, php-format
+msgid "%favAdd%"
+msgstr "%favAdd%"
+
+#: bb-group-forum-subscription.php:120
+msgid "Unsubscribe from this discussion"
+msgstr "Отписаться от этой темы"
+
+#: bb-group-forum-subscription.php:121
+msgid "Subscribe to this discussion"
+msgstr "Подписаться на эту тему"
+
+#: bp-group-forum-subscription.php:68
+msgid "Options saved."
+msgstr "Изменения сохранены."
+
+#: bp-group-forum-subscription.php:78
+#: bp-group-forum-subscription.php:121
+#: bp-group-forum-subscription.php:123
+msgid "Group Forum Subscription Options"
+msgstr "Настройки Уведомлений о форуме группы"
+
+#: bp-group-forum-subscription.php:79
+msgid "Default setting for new users"
+msgstr "Стандартные настройки для новых пользователей"
+
+#: bp-group-forum-subscription.php:83
+msgid "Members are automatically subscribed to forums when they join a group"
+msgstr "Участники автоматически подписывать на форумы как только вступают в группу."
+
+#: bp-group-forum-subscription.php:100
+msgid "<strong>Warning:</strong> Clicking the Setup button will subscribe every member of your BuddyPress installation to every discussion in every group of which they are members. It will overwrite any bbPress favorites that the user has set manually. This step is irreversible, so <em>do not click unless you are certain that you want to subscribe everyone to their forums</em>!"
+msgstr "<strong>Внимание:</strong> После нажатия на кнопку установки все ваши пользователи BuddyPress будут подписаны на обновления в форумах тех групп, в которые они вступили. Это действие также перезапишет все избранные темы, которые пользователи сами выбрали. Этот шаг не может быть отменен, поэтому <em>не нажимайте на кнопку, если вы не уверены в том, что хотите подписать всех пользователей</em>!"
+
+#: bp-group-forum-subscription.php:103
+msgid "Consider backing up your wp_usermeta table before clicking Submit."
+msgstr "Сделайте бекап вашей таблицы wp_usermeta в базе данных перед нажатием на кнопку Принять."
+
+#: bp-group-forum-subscription.php:107
+msgid "Submit"
+msgstr " Принять "
+
+#: bp-group-forum-subscription.php:121
+#: bp-group-forum-subscription.php:123
+msgid "Group Forum Subscription"
+msgstr "Подписка в форумах групп"
+
+#: bp-group-forum-subscription.php:192
+#, php-format
+msgid "New discussion activity in the group: \"%s\""
+msgstr "Новое сообщение в форуме группы: \"%s\""
+
+#: bp-group-forum-subscription.php:194
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"To view the group visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Было опубликовано новое сообщение в группе \"%s\".\n"
+"Автор: %s\n"
+"\n"
+"%s\n"
+"\n"
+"Для просмотра всей темы посетите: %s\n"
+"Для просмотра группы посетите: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: bb-group-forum-subscription.php:82
+#: bp-group-forum-subscription.php:207
+#, php-format
+msgid "To unsubscribe from this discussion, visit %s. To manage your email notification preferences, visit %s."
+msgstr "Для того, чтобы отписаться от этой темы, посетите %s. Для изменения ваших настроек уведомления посетите %s."
+
+#: bp-group-forum-subscription.php:413
+msgid "Automatically subscribe to group discussions"
+msgstr "Автоматически подписываться на обновления в форумах групп"
+
+#: bp-group-forum-subscription.php:414
+msgid "Yes"
+msgstr "Да"
+
+#: bp-group-forum-subscription.php:415
+msgid "No"
+msgstr "Нет"
+
+#: bp-group-forum-subscription.php:487
+#: bp-group-forum-subscription.php:499
+msgid "Settings"
+msgstr "Настройки"
+
+#: bp-group-forum-subscription.php:490
+#: bp-group-forum-subscription.php:503
+msgid "General"
+msgstr "Общие"
+
+#: bp-group-forum-subscription.php:491
+#: bp-group-forum-subscription.php:504
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: bp-group-forum-subscription.php:494
+#: bp-group-forum-subscription.php:507
+msgid "Delete Account"
+msgstr "Удалить аккаунт"
+
+#: bp-group-forum-subscription.php:544
+msgid "Forum subscription"
+msgstr "Подписка форума"
+
+#: bp-group-forum-subscription.php:546
+msgid "You are currently subscribed to all discussions in this group."
+msgstr "На данный момент вы подписаны на обновления во всех темах в форуме этой группы."
+
+#: bp-group-forum-subscription.php:548
+msgid "You are not subscribed to all discussions in this group."
+msgstr "Вы не подписаны на обновления во всех темах в форуме данной группы."
+
+#: bp-group-forum-subscription.php:560
+msgid "Manage your group subscriptions at "
+msgstr "Управление вашими подписками в группе на странице "
+
+#: bp-group-forum-subscription.php:560
+msgid "Notification Settings"
+msgstr "Настройки уведомлений"
+
+#: bp-group-forum-subscription.php:562
+msgid "Join this group to subscribe automatically to all of its discussions."
+msgstr "Вступите в эту группу, чтобы автоматически подписаться на обновления во всех темах форума."
+
+#: bp-group-forum-subscription.php:624
+msgid "You are subscribed to this topic."
+msgstr "Вы подписаны на обновления в этой теме."
+
+#: bp-group-forum-subscription.php:625
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+#: bp-group-forum-subscription.php:632
+msgid "You are not subscribed to this topic."
+msgstr "Вы не подписаны на обновления в этой теме."
+
+#: bp-group-forum-subscription.php:633
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: bp-group-forum-subscription.php:92
+msgid "Update Options &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: bp-group-forum-subscription.php:97
+msgid "Initial setup"
+msgstr "Первая установка"
+
+#: bp-group-forum-subscription.php:87
+msgid "Members receive email notification of their own posts"
+msgstr "Участники получают уведомления по e-mail о собственных запиясх"
+
+#: bp-group-forum-subscription.php:553
+msgid "To unsubscribe from specific discussions, click their titles."
+msgstr "Чтобы отписаться от определенной темы, нажмите на ее заголовок."
+
+#: bp-group-forum-subscription.php:555
+msgid "To subscribe to specific discussions, click their titles."
+msgstr "Чтобы подписаться на определенную тему, нажмите на ее заголовок."
+

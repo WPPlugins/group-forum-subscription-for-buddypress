@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Group Forum Subscription\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-11 13:13-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Levin Ng <levin@mydream.com.hk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Traditional Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:68
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"新訊息已發放於群組 \"%s\".\n"
+"發表人: %s\n"
+"\n"
+"%s\n"
+"\n"
+"要檢視全部討論, 請到: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:83
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%6$s\"\n"
+"Author: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+msgstr ""
+"新訊息已發放於群組 \"%6$s\"\n"
+"發表人: %2$s \n"
+"\n"
+" %3$s \n"
+"\n"
+"%4$s\n"
+"%5$s "
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:84
+msgid "New discussion board activity"
+msgstr "新討論板活動"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:85
+msgid "To read or unsubscribe from this discussion, visit"
+msgstr "要檢閱或取消訂閱此討論, 請到"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:85
+msgid "To manage your subscription settings, visit "
+msgstr "要管理自己的訂閱設定, 請到"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:111
+msgid "Are you sure you wanna delete this post?"
+msgstr "您確定刪除此文章?"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:112
+msgid "Are you sure you wanna undelete this post?"
+msgstr "您確定取消刪除此文章?"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:113
+msgid "favorites"
+msgstr "喜好"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:114
+msgid "?"
+msgstr "?"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:115
+msgid "%favDel%"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:116
+msgid "%favAdd%"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:117
+msgid "Unsubscribe from this discussion"
+msgstr "取消訂閱此討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bb-group-forum-subscription.php:118
+msgid "Subscribe to this discussion"
+msgstr "訂閱此討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:67
+msgid "Options saved."
+msgstr "選項已儲存"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:76
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:113
+msgid "Group Forum Subscription Options"
+msgstr "群組討論訂閱選項"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:77
+msgid "Default setting for new users"
+msgstr "新使用者預設設定"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:81
+msgid "Members are automatically subscribed to forums when they join a group"
+msgstr "當成員加入群組時, 他們會自動訂閱論壇"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:94
+msgid "<strong>Warning:</strong> Clicking the Setup button will subscribe every member of your BuddyPress installation to every discussion in every group of which they are members. It will overwrite any bbPress favorites that the user has set manually. This step is irreversible, so <em>do not click unless you are certain that you want to subscribe everyone to their forums</em>!"
+msgstr "<strong>警告:</strong> 點擊設置按鈕會給所有BuddyPress群組中之會員訂閱他們根屬之群組論壇, 這會取締所有已在bbPress手動設定好的用戶. 此步驟是無法還原的, 所以 <em> 除非您想所有人訂閱屬於他們根屬之群組論壇否則不要點擊</em>!"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:97
+msgid "Consider backing up your wp_usermeta table before clicking Submit."
+msgstr "設定前最好備份您的 wp_usermeta 資料表."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:101
+msgid "Submit"
+msgstr "設定"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:113
+msgid "Group Forum Subscription"
+msgstr "群組論壇訂閱"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:177
+#, php-format
+msgid "New discussion activity in the group: \"%s\""
+msgstr "新的討論活動於群組: \"%s\""
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:180
+#, php-format
+msgid ""
+"A new message has been posted in the group \"%s\".\n"
+"Author: %s\n"
+"\n"
+"%s\n"
+"\n"
+"To view the entire discussion, visit: %s\n"
+"To view the group visit: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"有新訊息發放於群組 \"%s\".\n"
+"發表人: %s\n"
+"\n"
+"%s\n"
+"\n"
+"要檢視整個討論, 請到: %s\n"
+"要檢視群組, 請到: %s\n"
+"\n"
+"\n"
+"---------------------\n"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:192
+#, php-format
+msgid "To unsubscribe from this discussion, visit %s. To manage your email notification preferences, visit %s."
+msgstr "要取消訂閱此群組, 請到 %s, 要管理郵件通知設定, 請到 %s."
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:398
+msgid "Automatically subscribe to group discussions"
+msgstr "自動訂閱群組討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:399
+msgid "Yes"
+msgstr "是"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:400
+msgid "No"
+msgstr "否"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:472
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:484
+msgid "Settings"
+msgstr "設定"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:475
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:488
+msgid "General"
+msgstr "一般"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:476
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:489
+msgid "Notifications"
+msgstr "通知"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:479
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:492
+msgid "Delete Account"
+msgstr "刪除帳號"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:525
+msgid "Forum subscription"
+msgstr "論壇訂閱"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:527
+msgid "You are currently subscribed to all discussions in this group."
+msgstr "您已訂閱來自此群組的所有討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:529
+msgid "You are not subscribed to all discussions in this group."
+msgstr "您並未有訂閱來自此群組的所有討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:534
+msgid "To unsubscribe from specific discussions, click their titles below."
+msgstr "要取消訂閱特定討論, 於主題下面點擊"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:536
+msgid "To subscribe to specific discussions, click their titles below."
+msgstr "要訂閱特定討論, 於主題下面點擊"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:541
+msgid "Manage your group subscriptions at "
+msgstr "管理您的群組訂閱於"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:541
+msgid "Notification Settings"
+msgstr "通知設定"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:543
+msgid "Join this group to subscribe automatically to all of its discussions."
+msgstr "加入此群組來自動訂閱此群組的所有討論"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:604
+msgid "You are subscribed to this topic."
+msgstr "您已訂閱此主題"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:610
+msgid "Unsubscribe"
+msgstr "取消訂閱"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:618
+msgid "You are not subscribed to this topic."
+msgstr "您並未訂閱此主題"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php:624
+msgid "Subscribe"
+msgstr "訂閱"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php
+msgid "To unsubscribe from specific discussions, click their titles."
+msgstr "要取消訂閱特定討論, 先點擊它的主題"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php
+msgid "To subscribe to specific discussions, click their titles."
+msgstr "要訂閱特定討論, 先點擊它的主題"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php
+msgid "Members receive email notification of their own posts"
+msgstr "成員由他們自己發表的文章會接收到通知訊息"
+
+#: /Applications/MAMP/htdocs/wpmu/wp-content/plugins/group-forum-subscription-for-buddypress/bp-group-forum-subscription.php
+msgid "Update Options &raquo;"
+msgstr "更新設定"
+
+
+#~ msgid ""
+#~ "Manage your group subscriptions at <a href=\"<?php echo "
+#~ "$notification_page; ?>\">Notification Settings</a>"
+#~ msgstr ""
+#~ "Adminsitre sus subscripciones de grupos en <a href=\"<?php echo $notification_page; ?>"
+#~ "\">Opciones de Notificaci&oacute;n</a>"
+
